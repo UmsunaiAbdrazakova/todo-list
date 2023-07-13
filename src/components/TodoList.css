@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+
+#add{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
